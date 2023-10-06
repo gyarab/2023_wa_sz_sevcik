@@ -24,20 +24,20 @@
 
 ### 74AAEB
 
-![image](https://hexcolorpedia.com/wp-content/themes/bootscore-5-child/solid.php?c=74aaeb)
+![image](https://www.colorhexa.com/74aaeb.png)
 
 ### 11C7F2
 
-![image](https://hexcolorpedia.com/wp-content/themes/bootscore-5-child/solid.php?c=74aaeb)
+![image](https://www.colorhexa.com/11c7f2.png)
 
 ### 1ADBB8
 
-![image](https://hexcolorpedia.com/wp-content/themes/bootscore-5-child/solid.php?c=74aaeb)
+![image](https://www.colorhexa.com/1adbb8.png)
 
 ### 36F588
 
-![image](https://hexcolorpedia.com/wp-content/themes/bootscore-5-child/solid.php?c=74aaeb)
+![image](https://www.colorhexa.com/36f588.png)
 
 ### 78EB7C
 
-![image](https://hexcolorpedia.com/wp-content/themes/bootscore-5-child/solid.php?c=74aaeb)
+![image](https://www.colorhexa.com/78eb7c.png)
