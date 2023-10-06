@@ -22,6 +22,22 @@
 
 ## Barvy
 
+### 74AAEB
 
+![image](https://hexcolorpedia.com/wp-content/themes/bootscore-5-child/solid.php?c=74aaeb)
 
+### 11C7F2
 
+![image](https://hexcolorpedia.com/wp-content/themes/bootscore-5-child/solid.php?c=74aaeb)
+
+### 1ADBB8
+
+![image](https://hexcolorpedia.com/wp-content/themes/bootscore-5-child/solid.php?c=74aaeb)
+
+### 36F588
+
+![image](https://hexcolorpedia.com/wp-content/themes/bootscore-5-child/solid.php?c=74aaeb)
+
+### 78EB7C
+
+![image](https://hexcolorpedia.com/wp-content/themes/bootscore-5-child/solid.php?c=74aaeb)
