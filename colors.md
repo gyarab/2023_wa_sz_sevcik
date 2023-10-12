@@ -15,12 +15,11 @@
 - apple nám dokazje že nám produkt nechce prodat jenom na chvíli, ale že produkt vydrží dlouho
 - navíc barvami dokazuje že produkt je praktický a nebudou s ním žádné problémy
 
-### zajímavost
-- Jablko je nakouslé, protože kosnout je v angličtině bite a bite znamená jak kousnout tak osm bitů
-
 ---
 
 ## Barvy
+
+- Barvy jsem vybral na základě osobní preference a na tom že všechny dohromady působí uklidňujícím dojmem.
 
 ### 74AAEB
 
